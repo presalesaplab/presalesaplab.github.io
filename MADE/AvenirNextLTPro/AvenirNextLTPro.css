@@ -1,0 +1,41 @@
+/* Avenir Next LT Pro */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url('https://presalesaplab.github.io/MADE/AvenirNextLTPro/AvenirNextLTPro.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url('https://presalesaplab.github.io/MADE/AvenirNextLTPro/AvenirNextLTPro_Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url('https://presalesaplab.github.io/MADE/AvenirNextLTPro/AvenirNextLTPro_Bold_Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url('https://presalesaplab.github.io/MADE/AvenirNextLTPro/AvenirNextLTPro_Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url('https://presalesaplab.github.io/MADE/AvenirNextLTPro/AvenirNextLTPro_Light.ttf') format('truetype');
+}
