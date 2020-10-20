@@ -1,0 +1,10 @@
+/* SAP Fiori Icons */
+@font-face {
+	font-family: 'SAP Fiori Icons';
+	src:
+		url('https://presalesaplab.github.io/MADE/SAPFioriIcons/SAP-icons.woff2') format('woff2'),
+		url('https://presalesaplab.github.io/MADE/SAPFioriIcons/SAP-icons.woff') format('woff'),
+		url('https://presalesaplab.github.io/MADE/SAPFioriIcons/SAP-icons.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
